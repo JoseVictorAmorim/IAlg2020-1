@@ -1,0 +1,7 @@
+==========Astros de Hollywood==========
+Identificador: 2
+Nome: 2
+Ano de Nascimento: 2
+Principal Filme: 2
+Numero de premios: 2
+========================================
